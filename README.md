@@ -1,5 +1,5 @@
 # GTLProgressView
-![alt tag](https://lh3.googleusercontent.com/BW_bp8EfJWAt0hclqEs23LdpJ-t2R6bHkKGGrt7E9lIKEuIWzN5tLCd2C4OXUftgyGMeO040wZBAu7WqkMpA=w1440-h960) 
+![alt tag](https://lh3.google.com/u/0/d/1M5rxBpXbZBYIfoxTsNwZzm5KCm-1FZM7=w1440-h658-iv1) 
 
 Usage
 =============
